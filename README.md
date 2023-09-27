@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mwadz
-- 👀 I’m interested in machine learning, psychology, biology, techology, data, art and food
+- 👀 I’m interested in machine learning, psychology, biology, techology, data and art
 - 🌱 I’m currently a junior data scientist
 - 💞️ I’m looking to collaborate on general data science and ML projects 
 <!---
